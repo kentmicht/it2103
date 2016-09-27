@@ -4,5 +4,5 @@
 		echo "This is a line!";
 	}
 
-	include("home.php");
+	include("Home.php");
 ?>
